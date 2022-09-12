@@ -10,22 +10,27 @@
 #ThePowerBook100 {
     background-color: blueviolet;
     color: brown;
+    text-align: center;
 }
 #TheBlueandWhiteG3 {
     background-color: aquamarine;
     color: peru;
+    text-align: center;
 }
 #TheFirstIMac {
     background-color: palevioletred;
     color: teal;
+    text-align: center;
 }
 #MacBookPro {
     background-color: lightcoral;
     color: darkcyan;
+    text-align: center;
 }
 #MacBookAir {
     background-color: olive;
     color: peachpuff;
+    text-align: center;
 }
 
 li {
@@ -56,11 +61,12 @@ li {
     font-size: 48px;
     color:wheat;
 }
-img {
+ {
     text-align: center;
 }
 table {
     background-color: red;
+    margin: auto;
 }
 td {
     color: aqua;
