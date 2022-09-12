@@ -1,19 +1,60 @@
 .HomePageHeading {
     text-align: center;
     font-size: 50px;
-    color:yellow
+    color:rgb(63, 151, 63)
 }
-body {
-    background-color: rgb(52, 16, 86);
+#HomePage {
+    background-color: rgb(68, 76, 69);
     color: bisque;
 }
-li {
-    color: greenyellow;
+#ThePowerBook100 {
+    background-color: blueviolet;
+    color: brown;
 }
-.Heading {
+#TheBlueandWhiteG3 {
+    background-color: aquamarine;
+    color: peru;
+}
+#TheFirstIMac {
+    background-color: palevioletred;
+    color: teal;
+}
+#MacBookPro {
+    background-color: lightcoral;
+    color: darkcyan;
+}
+#MacBookAir {
+    background-color: olive;
+    color: peachpuff;
+}
+
+li {
+    color: beige;
+}
+.HeadingPowerBook100 {
      text-align: center;
     font-size: 48px;
     color:yellow;
+}
+.TheFirstIMacHeading {
+    text-align: center;
+    font-size: 48px;
+    color:silver;
+}
+.BlueHeading{
+    text-align: center;
+    font-size: 48px;
+    color:lightpink;
+}
+.ProHeading {
+    text-align: center;
+    font-size: 48px;
+    color:royalblue;
+}
+.AirHeading {
+    text-align: center;
+    font-size: 48px;
+    color:wheat;
 }
 img {
     text-align: center;
