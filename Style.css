@@ -1,10 +1,26 @@
-h1 {
-    color:blue;
+.HomePageHeading {
+    text-align: center;
+    font-size: 50px;
+    color:yellow
 }
-.PowerBook100Heading {
-    text-align:center;
-    font-size:48px;
+body {
+    background-color: rgb(52, 16, 86);
+    color: bisque;
 }
-#PowerBook {
-    font-family: Italic;
+li {
+    color: greenyellow;
+}
+.Heading {
+     text-align: center;
+    font-size: 48px;
+    color:yellow;
+}
+img {
+    text-align: center;
+}
+table {
+    background-color: red;
+}
+td {
+    color: aqua;
 }
